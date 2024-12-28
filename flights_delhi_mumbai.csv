@@ -1,0 +1,9 @@
+email,source,destination,bookingDate,bookingTime
+example@example.com,Delhi,Mumbai,2024-12-05,14:30
+email,source,destination,bookingDate,bookingTime
+example@example.com,Delhi,Mumbai,2024-12-06,14:30
+email,source,destination,bookingDate,bookingTime
+example@example.com,Delhi,Mumbai,2024-12-08,14:30
+example@example.com,Delhi,Mumbai,2024-12-07,14:30
+example@example.com,Delhi,Mumbai,2024-12-07,14:30
+example@example.com,Delhi,Mumbai,2024-12-07,15:30
