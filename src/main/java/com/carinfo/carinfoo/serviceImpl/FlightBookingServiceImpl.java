@@ -29,7 +29,7 @@ public class FlightBookingServiceImpl implements FlightBookingService {
         try {
             // Save all records to the database
             FlightBooking savedBooking = repository.save(booking);
-
+            System.out.println("SavedBooking " + savedBooking );
             // Check if the booking meets the criteria for saving to CSV
             if ("Delhi".equalsIgnoreCase(booking.getSource()) &&
                     "Mumbai".equalsIgnoreCase(booking.getDestination()) &&
